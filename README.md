@@ -1,4 +1,4 @@
-# parsAR
+# pARser
 
 XML parser for mobile augmented reality library.
 
@@ -11,3 +11,5 @@ augmented reality (MAR) interface are superimposed on a camera preview layer. Ul
 simplify and expedite the process of creating MAR applications and displays.
 
 Key Words: augmented reality, file parser, mobile device, Android.
+
+Project Dates: June 19th - August 12th 2017
